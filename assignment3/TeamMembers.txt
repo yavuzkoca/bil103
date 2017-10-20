@@ -1,0 +1,13 @@
+﻿<<<<<<< HEAD
+Team Name: Very Nice People
+Address: djduff.pythonanywhere.com
+Member 1: Damien Jade Duff 918999222
+Member 2: Margaret Hamilton 111222333
+Member 3: Chuck Norris 333222111
+=======
+Team Name: Very Programmer People
+Address: djduff.pythonanywhere.com
+Member 1: Esin Ece Aydın 150160151
+Member 2: Yavuz KOCA 150150043
+Member 3: 
+>>>>>>> origin/master
