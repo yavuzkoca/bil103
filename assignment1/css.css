@@ -1,0 +1,388 @@
+.a{ opacity : 0.5;
+  filter : alpha( Opacity=50 );
+  -moz-opacity : 0.5;
+  font-size:20px;}
+.advices{
+	margin-top:5px;
+	background-color:#000;
+	color:#cf0;
+	border:dotted 4px;
+	font-size:20px;
+	padding-left:7px;
+}
+.advices a{
+	color:#ff0;
+}
+.advices_baslik{
+	font-size:20px;
+	font-style:bold;
+	text-align:center;
+	margin-left:-37px;
+}
+
+.altanasayfa{
+	width:873px;
+	
+	height:auto}
+.altanasayfaustbosluk{
+	width:873px;
+	height:25px;
+	padding-top:40px;}
+.altanasayfasol{
+	width:220px;
+	float:left;
+	
+	}
+
+	.altanasayfaorta{
+	margin-left:-50px; 
+	margin-top:20px;
+	width:500px;
+	float:left;
+	
+}
+	.altanasayfaorta2{
+	margin-left:-110px; 
+	margin-top:20px;
+	width:500px;
+	float:left;
+	
+}
+.altanasayfasag{
+	width:100px;
+	float:right;
+
+	}
+.anasayfa{
+	float:left;
+	width:875px;}
+
+.baslik-2{
+	margin-left:1px;
+	font-size:40px;
+	float:left;
+	padding:7px;
+	padding-left:100px;
+	padding-right:40px;
+	color:#000;
+	background-image:url(img/head.png);
+	background-repeat:no-repeat;
+	width:217px;
+	height:45px;}
+.baslik-2 a.one:hover, a.one:link{
+	margin-left:5px;
+	font-size:40px;
+	float:left;
+	padding:10px;
+	padding-left:;
+	padding-right:40px;
+	color:#000;
+	background-image:url(img/head.png);
+	background-repeat:no-repeat;
+	width:217px;
+	height:45px;}
+.black{
+	background-color:#a9a9a9;
+	padding:13px;
+	margin-top:20px;
+	margin-bottom:10px;
+	height:380px;
+}
+.black a{
+	float:left;
+	padding-right:10px;
+}
+.game_of_thrones{
+	background-color:#a9a9a9;
+	padding:13px;
+	margin-top:20px;
+	margin-bottom:10px;
+	height:380px;
+}
+.game_of_thrones a{
+	float:left;
+	padding-right:10px;
+}
+.walking_dead{
+	background-color:#a9a9a9;
+	padding:13px;
+	margin-top:20px;
+	margin-bottom:10px;
+	height:380px;
+}
+.walking_dead a{
+	float:left;
+	padding-right:10px;
+}
+.fifa17{
+	background-color:#a9a9a9;
+	padding:13px;
+	margin-top:20px;
+	margin-bottom:10px;
+	height:380px;
+}
+.fifa17 a{
+	float:left;
+	padding-right:10px;
+}
+.shadow_of_mordor{
+	background-color:#a9a9a9;
+	padding:13px;
+	margin-top:20px;
+	margin-bottom:10px;
+	height:380px;
+}
+.shadow_of_mordor a{
+	float:left;
+	padding-right:10px;
+}
+.ghosts{
+	background-color:#a9a9a9;
+	padding:13px;
+	margin-top:20px;
+	margin-bottom:10px;
+	height:380px;
+}
+.ghosts a{
+	float:left;
+	padding-right:10px;
+}
+.arrow{
+	background-color:#a9a9a9;
+	padding:13px;
+	margin-top:20px;
+	margin-bottom:10px;
+	height:310px;
+}
+.arrow a{
+	float:left;
+	padding-right:10px;
+}
+
+.brown{
+background-color:#DEB887}
+.clear{
+	clear:left;}
+.cyan{
+background-color:#00ffff;}
+.discerceve{
+	width:auto;
+	}
+.ikonlar{
+	width:350px;
+	height:60px;
+	float:left;
+	}
+.images{
+	width:860px;
+	height:220px;}
+.ing{
+background-color: #00FFaa;}
+.ieee{
+	background-color:#000;
+	color:#cf0;
+	font-family:"times new roman";
+	padding: 13px;
+	margin-bottom:10px;
+	float:left;
+}
+.ieee p{
+	line-height:25px;
+}
+.gray{
+background-color: #C0C0C0;}
+.green{
+background-color: #81F781;}
+.lotr{
+	background-color:#a9a9a9;
+	padding:13px;
+	margin-top:10px;
+	margin-bottom:10px;
+	height:380px;
+}
+.lotr a{
+	float:left;
+	padding-right:10px;
+}
+.menu{
+	width:875px;
+	height:65px;
+	color:#000;
+	background-color:#000;
+	}
+.menu a.one:link, a.one:visited, a.one:hover{
+	width:875px;
+	height:75px;
+	font-size:45px;
+	color:#000;
+	text-decoration:none;
+	color:#000;
+	}
+.menu-2{
+	float:left;
+	border:1px solid #F90;
+	font-size:25px;
+	background-color:#8B4513;
+	
+	}
+.menu-2 a.two:link, a.two:visited {
+	padding:18px 40px;
+	text-decoration:none;
+	color:#CEAB53;
+	text-align:center;
+	display:inline-block;}
+.menu-2 a.two:hover{
+	background-color:#F90;
+	color:#000;}
+
+.menu-3{
+	float:right;
+	border:1px solid #F90;
+	font-size:24px;
+	background-color:#8B4513;
+	}
+
+.menu-3 a.three:link, a.three:visited {
+	padding:18px 35px;
+	text-align:center;
+	text-decoration:none;
+	color:#CEAB53;
+	display:inline-block;
+	}
+.menu-3 a.three:hover{
+	text-align:center;
+	background-color:#F90;
+	color:#000;
+	}
+.movies_baslik{
+	font-size:20px;
+	font-style:bold;
+	
+}
+.movies{
+	font-color:#cf0;
+	list-style-type:none;}
+.orange{
+background-color:#ff6600;}
+.red{
+background-color:#ffaaaa;}
+.sagbosluk{
+	width:500px;
+	float:right;
+	}
+#sidebar{
+	float:right;
+	width:10px;
+	background-color:#aabb88;
+	font-size:20px;
+	padding-left:10px;
+	height:100px;
+	margin-top:20px;
+	}
+#show_movies ol li{
+	list-style-type:none;
+	font-size:15px;
+}
+#show_games ol li{
+	list-style-type:none;
+	font-size:15px;
+}
+#show_tv_series ol li{
+	list-style-type:none;
+	font-size:15px;
+}
+
+.advices .movies #show_movies ol li a:link{
+	color:#cf0cf0;
+}
+.solbosluk{
+	width:300px;
+	height:1px;
+	float:left;}
+.taare_zameen_par{
+	background-color:#a9a9a9;
+	padding:13px;
+	margin-top:20px;
+	margin-bottom:10px;
+	height:380px;
+}
+.taare_zameen_par a{
+	float:left;
+	padding-right:10px;
+}
+.todays_advice{
+background-color:#D8D8D8;
+padding:10px;
+font-family:"Times New Roman", Georgia, Serif;
+font-size:17px;}
+.todays_advice h2, h3{
+color:#b20000}
+.uye-girisi{
+	float:right;
+	width:180px;
+	height:60px;
+	}
+
+.uye-girisi a.four:link, a.four:visited{
+	color:#C00;
+	float:right;
+	padding-right:13px;}
+.uye-girisi a.four:hover{
+	color:#000;
+	}
+.ustbosluk{
+	width:875px;
+	height:62px;
+	background-color:#fff;}
+ul#q, ul#q ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+	text-align:center;
+	
+	
+}
+ul#q li {
+    float: left;
+    position: relative;
+    width: 145px;
+}
+ul#q li ul {
+    display: none;
+    position: absolute;
+    top: 15px; /* yukseklik 15px + sonradan eklenecek paddingler 4px toplam 19px */
+    left: 0;
+}
+ul#q li > ul {
+    top: auto;
+    left: auto;
+}
+ul#q li a {
+    font: bold 11px arial, helvetica, sans-serif;
+    display: block;
+    border-width: 1px;
+    border-style: solid;
+    border-color: #ccc #888 #555 #bbb;
+    margin: 0;
+    padding:18px 35px;
+    color:#CEAB53;
+    background: #efefef;
+    text-decoration: none;
+	background-color:#8B4513;
+	font-size:20px;
+	text-align:center;
+	padding-left:-5px;
+	
+}
+ul#q li a:hover {
+    color: #a00;
+    background-color:#F90;
+}
+ul#q li:hover ul {
+  display: block;
+  background-color:#F90;
+}
+ul#q li:hover ul, ul#q li.over ul{
+    display: block;
+	background-color:#F90;
+}
